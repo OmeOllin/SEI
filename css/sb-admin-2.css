@@ -47,6 +47,11 @@
   box-sizing: border-box;
 }
 
+iframe {
+  width: 100%;
+  border-style: none;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
